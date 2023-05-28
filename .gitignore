@@ -1,3 +1,7 @@
 /.idea/
 /.gradle/
 /gradle/wrapper/gradle-wrapper.properties
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
