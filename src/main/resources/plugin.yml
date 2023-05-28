@@ -1,0 +1,4 @@
+name: KNUC
+version: '${version}'
+main: com.knightein.knuc.KNUC
+api-version: 1.18
